@@ -5,7 +5,17 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/
+__pycache__/
+*.csv
+*.txt
+intel
+*.pub
+.gitignore
+*.ini
+*.yaml
+*.json
+*.dat
 # Distribution / packaging
 .Python
 build/
